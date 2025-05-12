@@ -1,3 +1,3 @@
-# LLI Games
+# LLi Games
 ## We make games
 - yep
