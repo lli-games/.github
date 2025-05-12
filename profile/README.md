@@ -1,3 +1,3 @@
-# Low Level Idiots
-## We do software stuff
+# LLI Games
+## We make games
 - yep
